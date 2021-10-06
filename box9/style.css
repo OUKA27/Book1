@@ -17,7 +17,7 @@ main {
 
 .step-box {
   width: 300px;
-  margin: 30px;
+  margin-right: 30px;
   padding: 10px;
   position: relative;
   background-color: #eee;
@@ -73,6 +73,6 @@ footer {
   main {
     width: 100%;
     display: block;
-    margin: 0 auto;
+    margin-bottom: 30px;
   }
 }
